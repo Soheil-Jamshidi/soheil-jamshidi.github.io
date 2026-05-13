@@ -756,6 +756,13 @@ main {
 
 .clients-item img:hover { filter: grayscale(0); }
 
+.clients-item span {
+  color: var(--light-gray);
+  font-size: var(--fs-5);
+  font-weight: var(--fw-300);
+  text-align: center;
+  margin-top: 12px;
+}
 
 
 
