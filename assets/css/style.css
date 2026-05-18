@@ -836,14 +836,14 @@ main {
 }
 
 .timeline-text .timeline-text_section{
-  display: flex;
+  display: flex !important; 
 }
 
 .timeline-text .timeline-text_section_icon{
-  width: 20px;
-  height: 20px;
-  margin-right: 6px;
-  padding-top: 4px;
+  width: 20px !important;
+  height: 20px !important;
+  margin-right: 6px !important;
+  padding-top: 4px !important;
 }
 
 /**
