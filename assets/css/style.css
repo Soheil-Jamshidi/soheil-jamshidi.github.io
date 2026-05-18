@@ -835,11 +835,11 @@ main {
   line-height: 1.6;
 }
 
-.timeline-text > div{
+.timeline-text .timeline-text_section{
   display: flex;
 }
 
-.timeline-text > div > div:first-child{
+.timeline-text .timeline-text_section_icon{
   width: 20px;
   height: 20px;
   margin-right: 6px;
